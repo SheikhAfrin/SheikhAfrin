@@ -2,7 +2,7 @@
 
 ### I am Afrin, currently studying BSc in Computer Science And Engineering from State University Of Bangladesh.
 
- Skills➡ 💻 Basic knowledge on C Programming, JAVA,HTML
+ Skills➡ 💻 C Programming, JAVA,HTML
 
  🌱I’m currently learning Python
  
@@ -12,4 +12,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheikhAfrin&theme=dark&show_icons=true)
 
-![](https://komarev.com/ghpvc/?SheikhAfrin=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?SheikhAfrin=your-github-SheikhAfrin&color=green)
