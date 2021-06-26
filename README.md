@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am Afrin, currently studying BSc in Computer Science And Engineering from @State University Of bangladesh.
+### I am Afrin, currently studying BSc in Computer Science And Engineering from State University Of bangladesh.
 
 
  Skills➡ 💻 Basic knowledge on C Programming, JAVA,HTML
