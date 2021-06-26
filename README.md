@@ -12,4 +12,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheikhAfrin&theme=dark&show_icons=true)
 
-![](https://komarev.com/ghpvc/?SheikhAfrin=your-github-SheikhAfrin&color=green)
+[](https://komarev.com/ghpvc/?SheikhAfrin=your-github-SheikhAfrin)
