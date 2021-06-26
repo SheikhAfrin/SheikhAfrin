@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am ##Afrin, currently studying BSc in Computer Science And Engineering from @State University Of bangladesh.
+I am Afrin, currently studying BSc in Computer Science And Engineering from @State University Of bangladesh.
 
 
  Skills➡ 💻 Basic knowledge on C Programming, JAVA,HTML
@@ -9,7 +9,7 @@ I am ##Afrin, currently studying BSc in Computer Science And Engineering from @S
  
  📫 How to reach me: sheikhafrin2016@gmail.com
 
-###My Github Stats
+### My Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheikhAfrin&theme=dark&show_icons=true)
 
