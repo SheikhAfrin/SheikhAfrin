@@ -2,9 +2,12 @@
 
 ### I am Afrin, currently studying BSc in Computer Science And Engineering from State University Of Bangladesh.
 
- Skills➡ 💻 C Programming, JAVA,HTML
+ Skills➡
+ 💻 C Programming, JAVA,HTML
 
  🌱I’m currently learning Python
+ 
+ 👀 I’m interested in learning and exploring new things.
  
  📫 How to reach me: sheikhafrin2016@gmail.com
 
