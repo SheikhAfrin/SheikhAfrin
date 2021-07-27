@@ -5,9 +5,9 @@
  Skills➡
  💻 C Programming, JAVA,HTML
 
- 🌱I’m currently learning Python
+ 🌱 Currently learning Python
  
- 👀 I’m interested in learning and exploring new things.
+ 👩🏻‍💻 I’m interested in learning and exploring new things.
  
  📫 How to reach me: sheikhafrin2016@gmail.com
 
