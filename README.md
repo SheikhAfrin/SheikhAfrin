@@ -5,7 +5,7 @@
  Skills➡
  💻 C Programming, JAVA,HTML
 
- 🌱 Currently learning Python
+ 🌱 Currently learning ➡ SQA
  
  👩🏻‍💻 I’m interested in learning and exploring new things.
  
